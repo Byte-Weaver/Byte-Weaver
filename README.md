@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science , AI , ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on a saas project
-- 📫 How to reach me khaledev.py@gmail.com
+- 📫 How to reach me khaled.mahmoud.osman96@gmail.com
 
 <!---
 Byte-Weaver/Byte-Weaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
